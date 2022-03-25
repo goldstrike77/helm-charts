@@ -1,0 +1,13 @@
+annotations:
+  category: ApplicationServer
+apiVersion: v2
+appVersion: 8.5.77
+keywords:
+- tomcat
+- java
+- http
+- web
+- application server
+- jsp
+name: tomcat
+version: 1
